@@ -1,8 +1,6 @@
 # dewente
 Chrome extension to hide Margaret Wente's Globe and Mail columns
 
-<h2>Dewente</h2>
-
 <h3>About</h3>
 <p>
 Dewente is a Chrome browser extension that block's Margaret Wente's columns from your view of the Globe and Mail's website. Simply install the plugin and you will never again regret clicking through to her articles.
