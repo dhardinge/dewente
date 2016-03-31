@@ -8,7 +8,10 @@ Dewente is a Chrome browser extension that block's Margaret Wente's columns from
 
 <h3>Installation</h3>
 <p>
-Install the plugin by visiting <a href='https://chrome.google.com/extensions/detail/inpfoelkegplmfeepmnibpnfchpnfkpp?hl=en'>this link.</a>  Note that you must be running the Chrome browser as this is a Chrome extension.
+Install the plugin by visiting <a href='https://chrome.google.com/extensions/detail/inpfoelkegplmfeepmnibpnfchpnfkpp?hl=en'>https://chrome.google.com/extensions/detail/inpfoelkegplmfeepmnibpnfchpnfkpp?hl=en</a>  
+</p>
+<p>
+Note that you must be running the Chrome browser as this is a Chrome extension.
 </p>
 
 <h3>Incognito Mode</h3>
@@ -18,3 +21,4 @@ The Globe and Mail paywall can be avoided by running Chrome in Incognito mode.  
 <p>
 To enable the extension in Incognito mode, enter <b>chrome://extensions/</b> into the browser bar, then scroll down to the <b>Dewente</b> plugin.  Check the <b>allow in incognito</b> checkbox.
 </p>
+<img src="AllowIncognito.PNG">
