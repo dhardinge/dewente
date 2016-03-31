@@ -21,4 +21,4 @@ The Globe and Mail paywall can be avoided by running Chrome in Incognito mode.  
 <p>
 To enable the extension in Incognito mode, enter <b>chrome://extensions/</b> into the browser bar, then scroll down to the <b>Dewente</b> plugin.  Check the <b>allow in incognito</b> checkbox.
 </p>
-<img src="AllowIncognito.PNG">
+<img src="AllowIncognito.PNG" style="border: 1px solid gray">
